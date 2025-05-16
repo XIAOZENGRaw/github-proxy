@@ -9,4 +9,5 @@ PS：GitHub文件链接带不带协议头都可以，支持release、archive以�
 release源码：https://github.com/hunshcn/project/archive/v0.1.0.tar.gz</br>
 release文件：https://github.com/hunshcn/project/releases/download/v0.1.0/example.zip</br>
 分支文件：https://github.com/hunshcn/project/blob/master/filename</br>
-本项目节点：https://github.com/hunshcn/gh-proxy，页面是我自己写的</br>
+本项目节点：https://github.com/hunshcn/gh-proxy </br>
+页面是我自己写的</br>
